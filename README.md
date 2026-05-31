@@ -175,7 +175,7 @@ New Cases: 120
 ---
 
 # Graph:
-<img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/88172182-784b-490c-8d8a-4e028efac3c2" />
+<img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/a803812c-c9c0-410f-ade4-74c9da3b8639" />
 
 # Graph Features
 - Bar chart visualization
