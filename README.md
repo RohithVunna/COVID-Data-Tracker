@@ -172,11 +172,12 @@ Total Cases: 45,000,000
 Total Deaths: 530,000
 New Cases: 120
 ```
-
 ---
 
-# Graph Features
+# Graph:
+<img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/88172182-784b-490c-8d8a-4e028efac3c2" />
 
+# Graph Features
 - Bar chart visualization
 - Proper Y-axis number formatting
 - Readable labels using commas
